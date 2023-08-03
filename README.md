@@ -1,4 +1,6 @@
 
 # Lake Trout Spawning Project
 
+[![DOI](https://zenodo.org/badge/674324634.svg)](https://zenodo.org/badge/latestdoi/674324634)
+
 Data and Code for Lake Trout Spawning manuscript
